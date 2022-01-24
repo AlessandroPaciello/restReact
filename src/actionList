@@ -1,0 +1,5 @@
+
+
+GET      /api            GET ALL USERS
+GET      /api/{idUser}   GET USER
+POST     /api/           ADD USERS LIST
